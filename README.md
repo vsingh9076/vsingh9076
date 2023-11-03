@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Large Language Models**
 
-- 👯 I’m looking to collaborate on **building Personal Assistant**
+- 👯 I’m looking to collaborate on **building Personal Assistant using AI**
 
 - 💬 Ask me about **Machine Learning, Deep Learning**
 
