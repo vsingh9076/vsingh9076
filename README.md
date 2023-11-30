@@ -9,11 +9,9 @@
 
 - 🔭 I’m currently working on **Generative AI Projects**
 
-- 🌱 I’m currently learning **Large Language Models**
+- 🌱 I’m currently building **Large Language Models**
 
-- 👯 I’m looking to collaborate on **building Personal Assistant using AI**
-
-- 💬 Ask me about **Machine Learning, Deep Learning**
+- 👯 I’m working on **building Personal Assistant using AI**
 
 - 📫 How to reach me **vsingh9076@gmail.com**
 
